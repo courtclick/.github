@@ -42,8 +42,9 @@
 <br />
 
 <p align="center">
-<img src="https://courtclick.com/images/phone1.png" width="180">
-<img src="https://courtclick.com/images/volupta-phone.png" width="280">
-<img src="https://courtclick.com/images/phone3.png" width="180">
+
+<img src="https://courtclick.com/images/details%201.png" width="180">
+<img src="https://courtclick.com/images/welcome%201.png" width="280">
+<img src="https://courtclick.com/images/My%20entire%20list.png" width="180">
 </p>
 
